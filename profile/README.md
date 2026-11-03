@@ -5,7 +5,3 @@ Personal apps and games by Arthur Longuefosse: [cocktails](https://phyrise.githu
 > **Looking for research code?** My research repositories (nnU-Net translation, dose prediction, ISBI 2027…) have moved to **[github.com/alonguefosse](https://github.com/alonguefosse)**.
 > Old links such as `github.com/Phyrise/nnUNet_translation` redirect there automatically.
 > Homepage, CV and publications: **[alonguefosse.github.io](https://alonguefosse.github.io/)**.
-
----
-
-*Projets perso et jeux d'Arthur Longuefosse. Les dépôts de recherche sont désormais sur [github.com/alonguefosse](https://github.com/alonguefosse).*
